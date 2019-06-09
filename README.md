@@ -1,2 +1,2 @@
 # earth_quake
-wordpess theme 
+wordpess theme bloger with full system custom design 
